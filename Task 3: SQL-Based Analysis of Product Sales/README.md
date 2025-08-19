@@ -4,4 +4,14 @@ This task involves SQL-based analysis on a product sales dataset. The objective 
 
 ## Files
 - `SQL-Based Analysis of Product Sales.ipynb`: Jupyter Notebook with code 
-- `db`: Datasets used 
+- `Album.csv/
+Artist.csv/
+Customer.csv/
+Employee.csv/
+Genre.csv/
+Invoice.csv/
+InvoiceLine.csv/
+MediaType.csv/
+Playlist.csv/
+PlaylistTrack.csv/
+Track.csv`: Datasets used 
